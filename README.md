@@ -1,5 +1,6 @@
 # Twitter-Analysis-of-the-Russian-Invasion-of-Ukraine
 
+In light of the current scenarios of the Russian invasion, there are a lot of discussions
 that are observed on different social media platforms. Twitter is one of the platforms
 where different tweets, updates, and hashtags are shared that are trending in line with
 the war. Analyzing this data to get better insights into the current scenario has a lot of
