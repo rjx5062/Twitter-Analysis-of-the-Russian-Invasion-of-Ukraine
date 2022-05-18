@@ -6,3 +6,6 @@ where different tweets, updates, and hashtags are shared that are trending in li
 the war. Analyzing this data to get better insights into the current scenario has a lot of
 potential. Our problem statement is to analyze multiple tweets that are trending since
 the beginning of the war and incorporate different analyses of the extracted data.
+
+
+The twitter data was collected using Tweepy v2
